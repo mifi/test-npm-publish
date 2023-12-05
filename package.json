@@ -1,0 +1,19 @@
+{
+  "name": "@mifi/test-npm-publish",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo mock test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mifi/test-npm-publish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mifi/test-npm-publish/issues"
+  },
+  "homepage": "https://github.com/mifi/test-npm-publish#readme"
+}
